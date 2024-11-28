@@ -23,3 +23,10 @@ Technologies Used:
 -C# Scripting: To handle logic, animations, and sensor simulation.
 
 -Graph Visualization: Displays real-time data using Unity UI elements.
+
+
+![image](https://github.com/user-attachments/assets/d848160b-32ff-4d0d-8552-5afd0282f9e5)
+
+![image](https://github.com/user-attachments/assets/f468b44b-cc24-47d2-b05b-9a7acebc1c75)
+CSV file data used for 3d line graph generation.
+
